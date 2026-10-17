@@ -23,3 +23,5 @@ Development Environment
 🌐 Connect With Me:
 
 LinkedIn: www.linkedin.com/in/yash-puranik-027402417
+
+Gmail: yashpuranik626@gmail.com
