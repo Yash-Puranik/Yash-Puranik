@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there, I'm Yash 👋
 
-<!--
-**Yash-Puranik/Yash-Puranik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
 
-Here are some ideas to get you started:
+I am a first-year Information Technology undergraduate passionate about DevOps practices, containerized workflows, and workflow automation. My current work centers on building reproducible environments, writing clean CI/CD pipelines, and systems automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Current Focus: Container hardening, multi-stage Docker builds, and automated pipeline workflows via GitHub Actions.
+
+🌱 Deepening Knowledge In: Linux internals, shell automation patterns, and backend system reliability.
+
+💬 Ask me about: Docker containers, Bash automation, CI/CD setup, and Linux troubleshooting.
+
+🎯 Career Target: Software Infrastructure, DevOps, and Open-Source engineering (GitHub Octernships).
+
+🛠️ Tech Stack & Tooling
+
+Containerization & CI/CD
+
+Systems & Scripting
+
+Development Environment
+
+🌐 Connect With Me:
+
+LinkedIn: www.linkedin.com/in/yash-puranik-027402417
